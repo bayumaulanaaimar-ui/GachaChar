@@ -1,0 +1,4 @@
+### Waifu
+$(eval a="$(urlfetch https://raw.githubusercontent.com/bayumaulanaaimar-ui/gachawaifu/refs/heads/main/waifu.txt)".split(","); "$(touser)! Waifu kamu adalah "+a[Math.floor(Math.random()a.length)])
+### Husbu
+$(eval a="$(urlfetch https://raw.githubusercontent.com/bayumaulanaaimar-ui/gachawaifu/refs/heads/main/husbando.txt)".split(","); "$(touser)! Husbu kamu adalah "+a[Math.floor(Math.random()a.length)])
